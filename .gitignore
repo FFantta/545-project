@@ -210,3 +210,14 @@ __marimo__/
 data/
 *.csv
 *.json
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Virtual environments
+venv/
+.venv/
+env/
